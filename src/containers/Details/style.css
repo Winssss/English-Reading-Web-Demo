@@ -1,0 +1,9 @@
+.detail-content{
+  margin: 10px !important;
+  border-radius: 5px !important;
+}
+
+.detail-content img {
+  float: left;
+  margin-right: 10px;
+}

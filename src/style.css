@@ -1,0 +1,28 @@
+#root {
+	height: 100%;
+}
+
+body {
+	background-color: #f0f2f5;
+	height: 100%
+}
+
+.container {
+  min-width: 1200px !important;
+  height: 100%;
+}
+
+.header {
+  background-color: #fff !important;
+  border-bottom: 1px solid #999 !important;
+}
+
+.content {
+  min-height: 600px !important;
+}
+
+.footer {
+  border-top: 1px solid #999 !important;
+  text-align: center !important;
+  padding: 10px  !important;
+}

@@ -1,0 +1,9 @@
+.vip-content {
+  margin: 10px;
+  height: 100px;
+  line-height: 100px;
+  text-align: center;
+  font-size: 20px;
+  background-color: #fff;
+  border-radius: 10px;
+}

@@ -1,14 +1,1 @@
-# English-Reading-Web-Demo
-a simple English reading webside.  login account: addmin, password: admin
-
-### Installing
-
-```
-npm install
-```
-
-###  Running
-
-```
-npm start
-```
+// This is English reading webside demo
